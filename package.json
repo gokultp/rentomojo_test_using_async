@@ -10,6 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "async": "^2.3.0",
-    "html-to-json": "^0.6.0"
+    "html-to-json": "^0.6.0",
+    "request": "^2.81.0",
+    "url": "^0.11.0"
   }
 }
