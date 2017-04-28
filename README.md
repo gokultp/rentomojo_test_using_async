@@ -8,6 +8,6 @@ We can set a maximum cuncurrency value for the job, and only that much jobs will
 
 Have used an npm module called html-to-json for parsing links from htmlString.
 
-for running the code run 
-    `npm install`
-    `npm start`
+for running the code run  
+```npm install``` and
+```npm start```
